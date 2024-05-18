@@ -29,8 +29,4 @@ public class ListaTarefa {
 	public void obterDescricaoTarefa() {
 		System.out.println(this.tarefaList);
 	}
-
-	public static void main(String[] args) {
-
-	}
 }

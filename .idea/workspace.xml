@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc64147-aa1c-4dac-ac02-451e0a73882a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaTarefa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cfc64147-aa1c-4dac-ac02-451e0a73882a" name="Changes" comment="feat: add Tarefa and ListaTarefa classes">
+      <change beforePath="$PROJECT_DIR$/src/ListaTarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListaTarefa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,11 +89,25 @@
       <option name="presentableId" value="Default" />
       <updated>1716059027305</updated>
       <workItem from="1716059028376" duration="498000" />
-      <workItem from="1716059549528" duration="6042000" />
+      <workItem from="1716059549528" duration="6147000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add Tarefa and ListaTarefa classes">
+      <option name="closed" value="true" />
+      <created>1716065981318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716065981318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="feat: add Tarefa and ListaTarefa classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add Tarefa and ListaTarefa classes" />
   </component>
 </project>
